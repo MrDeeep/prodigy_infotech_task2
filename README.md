@@ -1,6 +1,6 @@
 # Prodigy Infotech Task2
 <br>
-<img src="">
+<img src="https://github.com/MrDeeep/prodigy_infotech_task2/blob/main/task_2.png">
 
 ## Overview
 This repository contains the code and analysis for Task 2 of my Data Science internship at Prodigy Info Tech. For this task, I performed data cleaning and exploratory data analysis (EDA) on the Titanic dataset, which is a well-known dataset in the field of data science.
